@@ -28,7 +28,9 @@ If there's anything you want to talk about, let's connect!
 </picture>
 </a>
 <a href="mailto:[Insert Gmail Address]" target="_blank" rel="noreferrer">
-<picture>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Gmail" title="Gmail" />
+</a>
+</p>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" width="32" height="32" alt="Email" title="Email" />
