@@ -7,12 +7,12 @@ I enjoy building software and playing sports, and I am always open to trying new
 
 Some of my recent featured projects.
 
-`[BAAM](https://github.com/BansonVuong/BAAM)`
+[BAAM](https://github.com/BansonVuong/BAAM)
 *Solana • Rust • TypeScript • Swift • MongoDB • Vultr | 2026*
 
 - a multi-surface social betting platform built at JAMHacks featuring Solana smart contracts, a native Swift iMessage plugin, and a Discord bot for on-chain wagers
 
-`[Retermina](https://github.com/matthewhamilton3141/Retermina)`
+[Retermina](https://github.com/matthewhamilton3141/Retermina)
 *Tauri • Rust • React • TypeScript | 2026 - Present*
 
 - a Tauri + React terminal workspace with native Rust PTY shells, a draggable multi-panel layout, and an integrated Claude Code CLI with an Iris context-aware command bar
