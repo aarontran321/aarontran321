@@ -19,15 +19,16 @@ Some of my recent featured projects.
 
 If there's anything you want to talk about, let's connect!
 
-<p align="left">
-<a href="(https://www.linkedin.com/in/aaron-tran-157405339/)" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/aaron-tran-157405339/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
 </picture>
 </a>
-Email:[aaron99tran@gmail.com](mailto:aaron99tran@gmail.com)
+</p>
+
+**Email:** [aaron99tran@gmail.com](mailto:aaron99tran@gmail.com)
   
 👉 See more about me on my [Personal Website](https://aarontran.vercel.app/)
 
