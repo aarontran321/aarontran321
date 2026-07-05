@@ -36,7 +36,7 @@ If there's anything you want to talk about, let's connect!
 </a>
 </p>
 
-👉 See more about me on my [Personal Website]([(https://aarontran.vercel.app/)])
+👉 See more about me on my [Personal Website](https://aarontran.vercel.app/)
 
 ---
 ##  Tech Stack
