@@ -1,10 +1,22 @@
-Hi, My name is Aaron Tran
+Hi, I'm Aaron Tran
 ============================
 
-I'm a Computer Science student @ University of Waterloo, passionate about building software, exploring nature, and playing sports.
+I am a Computer Science student @ University of Waterloo seeking summer '27 internship opportunities.
 
+I enjoy building software, playing sports, and am always open to trying new things.
+
+Some of my recent featured projects.
+
+`BAAM`
+*Solana • Rust • TypeScript • Swift • MongoDB • Vultr | 2026*
+
+- a multi-surface social betting platform built at JAMHacks featuring Solana smart contracts, a native Swift iMessage plugin, and a Discord bot for on-chain wagers
+
+`Retermina`
+*Tauri • Rust • React • TypeScript | 2026 - Present*
+
+- a Tauri + React terminal workspace with native Rust PTY shells, a draggable multi-panel layout, and an integrated Claude Code CLI with an Iris context-aware command bar
 ---
-
 ##  Tech Stack
 
 <p align="left">
@@ -12,21 +24,7 @@ I'm a Computer Science student @ University of Waterloo, passionate about buildi
 </p>
 
 ---
-
-Some of my recent featured projects.
-
-- `BAAM`
-*Solana • Rust • TypeScript • Swift • MongoDB • Vultr | 2026*
-
-- a multi-surface social betting platform built at JAMHacks featuring Solana smart contracts, a native Swift iMessage plugin, and a Discord bot for on-chain wagers
-
-- `Retermina`
-*Tauri • Rust • React • TypeScript | 2026 - Present*
-
-- a Tauri + React terminal workspace with native Rust PTY shells, a draggable multi-panel layout, and an integrated Claude Code CLI with an Iris context-aware command bar
----
-
-## 🔗 Let's Connect
+##  Let's Connect
 
 <p align="left">
 <a href="[Insert LinkedIn URL]" target="_blank" rel="noreferrer">
