@@ -7,12 +7,12 @@ I enjoy building software and playing sports, and I am always open to trying new
 
 Some of my recent featured projects.
 
-`BAAM`
+`[BAAM](https://github.com/BansonVuong/BAAM)`
 *Solana • Rust • TypeScript • Swift • MongoDB • Vultr | 2026*
 
 - a multi-surface social betting platform built at JAMHacks featuring Solana smart contracts, a native Swift iMessage plugin, and a Discord bot for on-chain wagers
 
-`Retermina`
+`[Retermina](https://github.com/matthewhamilton3141/Retermina)`
 *Tauri • Rust • React • TypeScript | 2026 - Present*
 
 - a Tauri + React terminal workspace with native Rust PTY shells, a draggable multi-panel layout, and an integrated Claude Code CLI with an Iris context-aware command bar
@@ -27,13 +27,6 @@ If there's anything you want to talk about, let's connect!
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
 </picture>
 </a>
-<a href="[Insert Website URL]" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe.svg" width="32" height="32" alt="Website" title="Website" />
-</picture>
-</a>
 <a href="mailto:[Insert Gmail Address]" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email-dark.svg" />
@@ -42,6 +35,8 @@ If there's anything you want to talk about, let's connect!
 </picture>
 </a>
 </p>
+
+👉 See more about me on my [Personal Website]([(https://aarontran.vercel.app/)])
 
 ---
 ##  Tech Stack
