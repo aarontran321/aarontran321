@@ -6,6 +6,7 @@ I am a Computer Science student @ University of Waterloo seeking summer '27 inte
 I enjoy building software and playing sports, and I am always open to trying new things!
 
 Some of my recent featured projects.
+
 [PlotBoard](https://github.com/aarontran321/plotboard) 
 *Next.js • TypeScript • Tailwind CSS • Supabase | 2026*
 
