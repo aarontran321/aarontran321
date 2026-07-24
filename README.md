@@ -6,6 +6,10 @@ I am a Computer Science student @ University of Waterloo seeking summer '27 inte
 I enjoy building software and playing sports, and I am always open to trying new things!
 
 Some of my recent featured projects.
+[PlotBoard](https://github.com/aarontran321/plotboard) 
+*Next.js • TypeScript • Tailwind CSS • Supabase | 2026*
+
+- an interactive 2D American football playbook designer and play simulator, with canvas-based route drawing, physics-driven play simulation, and shareable plays backed by Supabase
 
 [BAAM](https://github.com/BansonVuong/BAAM)
 *Solana • Rust • TypeScript • Swift • MongoDB • Vultr | 2026*
