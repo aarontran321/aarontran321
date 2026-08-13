@@ -1,4 +1,4 @@
-Hi, I'm Aaron Tran
+Hi, I'm Aaron Tra
 ============================
 
 I am a Computer Science student @ University of Waterloo seeking summer '27 internship opportunities!
